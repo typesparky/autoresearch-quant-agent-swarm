@@ -1,0 +1,10 @@
+agent_id: hermes_quant_003
+code_length: 2490
+features:
+- price_change_1h
+- price_change_24h
+- volume_change
+- sentiment_score
+- news_count
+model_type: xgboost
+workspace: agents/hermes_quant_003
